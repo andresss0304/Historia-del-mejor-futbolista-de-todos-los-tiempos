@@ -8,7 +8,7 @@
 Habilidades en cartografía<br>
 Profesional en trabajo de campo<br>
 Programación Avanzada<br>
-Goleador nato
+Goleador nato<br>
 **Logros importantes:**<br>
 1. [Campeón de champions](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
 2. [Campeón de premier league](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
