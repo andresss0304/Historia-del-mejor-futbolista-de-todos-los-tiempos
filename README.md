@@ -7,7 +7,7 @@
 **Habilidades:** Especialista en SIG<br>
 Habilidades en cartografía<br>
 Profesional en trabajo de campo<br>
-Programación Avanzada<br>
+_Programación Avanzada_<br>
 Goleador nato<br>
 **Logros importantes:**<br>
 1. [Campeón de champions](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
