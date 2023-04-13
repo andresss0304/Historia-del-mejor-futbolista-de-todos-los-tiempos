@@ -2,8 +2,8 @@
 
 **Nombre:** Cristiano Ronaldo dos Santos Aveiro<br>
 **Edad:** 38 años<br>
-**carrera o profesión:**Futbol<br>
-**Apodos: "El bicho", "Mister champions", "The GOAT", "El comandante"**<br>
+**carrera o profesión:** Futbol<br>
+**Apodos:** "_El bicho", "Mister champions", "The GOAT", "El comandante"_<br>
 **Logros importantes:**<br>
 1. [Campeón de champions](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
 2. [Campeón de premier league](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
