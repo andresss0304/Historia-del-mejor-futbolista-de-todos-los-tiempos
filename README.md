@@ -1,5 +1,4 @@
 # La historia del mejor futbolista de todos los tiempos
-![Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg" alt="Cristiano Ronaldo" width="400"/>
 
 **Nombre:** Cristiano Ronaldo dos Santos Aveiro<br>
