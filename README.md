@@ -1,14 +1,9 @@
-## Curriculum Vitae 
-![](cristiano.jpg)<br>
-**Nombre:** Jefferson Ronaldo<br>
-**Edad:** 18 Años<br>
-**carreras:** Geografía y Futbol<br>
-**Cursos Aprobados:** 14 cursos<br>
-**Habilidades:** Especialista en SIG<br>
-Habilidades en cartografía<br>
-Profesional en trabajo de campo<br>
-_Programación Avanzada_<br>
-Goleador nato<br>
+## La historia del mejor futbolista de todos los tiempos
+
+**Nombre:** Cristiano Ronaldo dos Santos Aveiro<br>
+**Edad:** 38 años<br>
+**carrera o profesión:**Futbol<br>
+**Apodos: "El bicho", "Mister champions", "The GOAT", "El comandante"**<br>
 **Logros importantes:**<br>
 1. [Campeón de champions](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
 2. [Campeón de premier league](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
