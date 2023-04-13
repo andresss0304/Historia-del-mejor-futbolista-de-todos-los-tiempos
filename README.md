@@ -4,7 +4,8 @@
 **Edad:** 38 años<br>
 **carrera o profesión:** Futbol<br>
 **Apodos:** "_El bicho", "Mister champions", "The GOAT", "El comandante"_<br>
-## **Biografía**
+## **Biografía**<br>
+Cristiano Ronaldo Dos Santos Aveiro, la persona más influyente del planeta. Cristiano nace el 5 de febrero del año 1985, en Funchal, Madeira un pueblo de Portugal. Desde pequeño empezó sus pasos en el futbol, en las ligas menores del Nacional, luego se incorpora al**Sporting FC**, uno de los mejores clubes del país, el joven de Madeira demostraba gran habilidad con el balón y hace su debut como futbolista profesional en un **agosto del 2002**, con un gran partido en el cual anotó su primer gol. Un joven con muchas ambiciones, joven que ni los comentaristas conocían, ya que al marcar su primer gol, lo llamaban _“Custodio”_ de manera errónea. 
 **Logros importantes:**<br>
 1. [Campeón de champions x5](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
 2. [Campeón de premier league x3](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
