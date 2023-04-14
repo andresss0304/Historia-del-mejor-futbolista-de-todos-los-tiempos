@@ -25,5 +25,8 @@ En resumen, Cristiano Ronaldo es uno de los jugadores de fútbol más exitosos y
 2. [Campeón de premier league x3](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
 3. [Balón de oro x5](https://phantom-marca.unidadeditorial.es/26f0a441e42e15990e97f265e073833c/resize/1320/f/jpg/assets/multimedia/imagenes/2019/06/10/15601758168566.png)
 
+![Cristiano Ronaldo](cristiano.jpg)
+
+
 ## Bibliografía <br>
 De La Oliva Estrella Moreno Y Otros, VMMERC (2017). Biografía de Cristiano Ronaldo (Su vida, historia, bio resumida) . https://www.buscabiografias.com/biografia/verDetalle/9680/Cristiano%20Ronaldo
