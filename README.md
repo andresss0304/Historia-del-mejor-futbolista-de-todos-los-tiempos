@@ -19,7 +19,7 @@ Ronaldo es conocido por su velocidad, habilidades técnicas y capacidad goleador
 
 Fuera del campo, Ronaldo ha construido una marca global, incluyendo una línea de ropa, una línea de zapatos y una marca de fragancias. También ha sido un embajador de diversas marcas internacionales, incluyendo Nike, Herbalife y Tag Heuer.
 
-En resumen, Cristiano Ronaldo es uno de los jugadores de fútbol más exitosos y reconocidos de todos los tiempos, con una carrera impresionante en el campo y una marca global en constante crecimiento fuera de él. Su talento, dedicación y compromiso lo han llevado a convertirse en un ícono deportivo y una inspiración para muchos.
+En resumen, Cristiano Ronaldo es uno de los jugadores de fútbol más exitosos y reconocidos de todos los tiempos, con una carrera impresionante en el campo y una marca global en constante crecimiento fuera de él. Su talento, dedicación y compromiso lo han llevado a convertirse en un ícono deportivo y una inspiración para muchos.<br>
 **Logros importantes:**<br>
 1. [Campeón de champions x5](https://pbs.twimg.com/media/Dl3OKoJXsAEQ9bF?format=jpg&name=900x900)<br>
 2. [Campeón de premier league x3](https://pbs.twimg.com/media/Fh3BQAsaAAEdlzA.jpg)<br>
