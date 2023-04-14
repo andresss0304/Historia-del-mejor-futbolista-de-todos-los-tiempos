@@ -26,5 +26,4 @@ En resumen, Cristiano Ronaldo es uno de los jugadores de fútbol más exitosos y
 3. [Balón de oro x5](https://phantom-marca.unidadeditorial.es/26f0a441e42e15990e97f265e073833c/resize/1320/f/jpg/assets/multimedia/imagenes/2019/06/10/15601758168566.png)
 
 ## Bibliografía <br>
-ESPN Deportes. (2021, mayo 10). Biografía de Cristiano Ronaldo. https://www.espn.com.ar/futbol/jugador/_/id/5548/cristiano-ronaldo
-
+Gibson, O. (2019, mayo 31). Cristiano Ronaldo: The remarkable story behind football’s greatest ever goalscorer. The Guardian. https://www.theguardian.com/football/2019/may/31/cristiano-ronaldo-story-greatest-ever-goalscorer-real-madrid-juventus-portugal
